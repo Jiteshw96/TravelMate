@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelMate</string>
+
+    <string name="no_data_message">Data not found</string>
+    <string name="top_three_characters">Top 3 Characters :</string>
+    <string name="dummy_city_name">Rome</string>
+    <string name="dummy_city_description">Capital city with rich history and architecture</string>
+    <string name="number_of_cities">Number Of Cities -></string>
+    <string name="generic_error_message">Something went wrong</string>
+</resources>

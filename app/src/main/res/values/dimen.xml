@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_15">15dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="dp_60">60dp</dimen>
+    <dimen name="dp_300">300dp</dimen>
+
+    <dimen name="app_bar_height">240dp</dimen>
+    <dimen name="collapsing_tool_bar_height">60dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tab_indicator_height">0dp</dimen>
+
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_extra_large">40dp</dimen>
+    <dimen name="horizontal_margin_medium">16dp</dimen>
+    <dimen name="horizontal_margin_large">32dp</dimen>
+
+</resources>
