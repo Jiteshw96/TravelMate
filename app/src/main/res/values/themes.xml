@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TravelMate" parent="android:Theme.Material.Light.NoActionBar" />
+
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen.IconBackground">
+        <item name="android:windowBackground">@drawable/bg_splash_gradient</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_screen</item>
+        <item name="postSplashScreenTheme">@style/Theme.TravelMate</item>
+        <item name="windowSplashScreenIconBackgroundColor">@android:color/transparent</item>
+    </style>
+
+</resources>
